@@ -1,7 +1,12 @@
 ### 👋 Hi, I'm Donut :doughnut:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=slateorange)
+![](https://komarev.com/ghpvc/?username=Thiraphat-K&label=PROFILE+VIEWS)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=slateorange&layout=compact&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=great-gatsby&layout=compact&langs_count=8)
+<br>
+<p align="center">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+  </p>
 
 <!--
 **Thiraphat-K/Thiraphat-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
