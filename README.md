@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Donut 💬
+### 👋 Hi, I'm Donut :doughnut:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=slateorange)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=slateorange&layout=compact&langs_count=8)
