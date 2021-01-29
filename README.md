@@ -1,7 +1,5 @@
-### 👋 Hi, I'm Donut :doughnut:
-![](https://komarev.com/ghpvc/?username=Thiraphat-K&label=PROFILE+VIEWS)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=great-gatsby)
+### 👋 Hi, I'm Donut :doughnut: ![](https://komarev.com/ghpvc/?username=Thiraphat-K&label=PROFILE+VIEWS)
+![Thiraphat-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=great-gatsby&layout=compact&langs_count=8)
 <br>
 <p align="center">
