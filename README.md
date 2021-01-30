@@ -14,6 +14,8 @@
 
 </details>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thiraphat-K&count_private=true&theme=great-gatsby)
+
 ### :books: Learning :
 <p>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="25"/> 
