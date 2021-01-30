@@ -22,6 +22,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="25"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg" alt="Arduino" height="25"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="25"/> 
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg" alt="Raspberry Pi" height="25"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25"/>
@@ -29,7 +30,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25"/> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="25"/> 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="Jupyter Notebook" height="25"/>
  <div>
