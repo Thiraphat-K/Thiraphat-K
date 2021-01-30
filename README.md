@@ -4,7 +4,9 @@
     <summary>&#128202 <b>GitHub Stats</b></summary><br/>
 
 ![Thiraphat-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=calm)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=calm&layout=compact&langs_count=8)
+<br>
 ![Thiraphat-K](https://github-readme-streak-stats.herokuapp.com/?user=Thiraphat-K&count_private=true&theme=onedark)
 
 </details>
