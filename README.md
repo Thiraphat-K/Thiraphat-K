@@ -20,7 +20,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="25"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg" alt="Arduino" height="25"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="25"/> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> 
+<img style="margin: 10px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg alt="JavaScript" height="25"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25"/> 
