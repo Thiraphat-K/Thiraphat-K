@@ -3,8 +3,9 @@
 <details>
     <summary>&#128202 <b>GitHub Stats</b></summary><br/>
 
-![Thiraphat-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=great-gatsby&layout=compact&langs_count=8)
+![Thiraphat-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=calm&layout=compact&langs_count=8)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thiraphat-K&count_private=true&theme=onedark)
 
 </details>
 <details>
@@ -13,8 +14,6 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Thiraphat-K&theme=gruvbox)
 
 </details>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thiraphat-K&count_private=true&theme=great-gatsby)
 
 ### :books: Learning :
 <p>
