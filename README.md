@@ -1,7 +1,12 @@
 ### 👋 Hi, I'm Donut :doughnut: ![](https://komarev.com/ghpvc/?username=Thiraphat-K&label=PROFILE+VIEWS)
+
+<details>
+    <summary>&#128202 <b>GitHub Stats</b></summary><br/>
+
 ![Thiraphat-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=great-gatsby&layout=compact&langs_count=8)
 
+</details>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
