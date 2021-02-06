@@ -32,6 +32,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="25"/> 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="25"/> 
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="Jupyter Notebook" height="25"/>
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="Postman" height="25"/>
  <div>
    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="150" height="100"/>
    </div>
