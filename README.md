@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Donut :doughnut: ![](https://komarev.com/ghpvc/?username=Thiraphat-K&label=Visitor&style=flat-square&color=red)
+### 👋 Hi, I'm Donut :doughnut: <!--![](https://komarev.com/ghpvc/?username=Thiraphat-K&label=Visitor&style=flat-square&color=red)-->
 
 <details>
     <summary>&#128202 <b>GitHub Stats</b></summary><br/>
