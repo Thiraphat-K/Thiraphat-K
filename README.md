@@ -1,6 +1,6 @@
 <!-- ref: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![Thiraphat-K snake gif](https://github.com/Thiraphat-K/Thiraphat-K/blob/snake/github-contribution-grid-snake.gif)
-<h1>👋 Hi, I'm Donut :doughnut: <!--![](https://komarev.com/ghpvc/?username=Thiraphat-K&label=Visitor&style=flat-square&color=red)--></h1>
+<br><strong>👋 Hi, I'm Donut :doughnut: <!--![](https://komarev.com/ghpvc/?username=Thiraphat-K&label=Visitor&style=flat-square&color=red)--></strong>
 
 <details>
     <summary>&#128202 <b>GitHub Stats</b></summary><br/>
