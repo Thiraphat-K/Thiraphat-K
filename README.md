@@ -9,7 +9,7 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thiraphat-K&theme=algolia&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Thiraphat-K&theme=algolia&row=2&column=4)
 </details>
 <details>
     <summary> :books: <b>Learning</b></summary>
