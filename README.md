@@ -3,13 +3,13 @@
 <details>
     <summary>&#128202 <b>GitHub Stats</b></summary><br/>
 
-![Thiraphat-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=calm&layout=compact&langs_count=8)
+![Thiraphat-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=algolia&layout=compact&langs_count=8)
 </details>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Thiraphat-K&theme=gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thiraphat-K&theme=algolia&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 <details>
     <summary> :books: <b>Learning</b></summary>
