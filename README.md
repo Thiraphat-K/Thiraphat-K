@@ -6,11 +6,11 @@
 ![Thiraphat-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraphat-K&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiraphat-K&theme=algolia&layout=compact&langs_count=8)
 </details>
-<details>
+<!--<details>
     <summary>&#127942 <b>GitHub Awards</b></summary>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Thiraphat-K&theme=algolia&row=2&column=4)
-</details>
+</details>-->
 <details>
     <summary> :books: <b>Learning</b></summary>
     <div>
